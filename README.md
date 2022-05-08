@@ -1,5 +1,7 @@
-## 👋 Hi, I’m Ephrem - 🌱 I’m currently learning ... Frontend developer at Hyper
-Island.
+## 👋 Hi, I’m Ephrem - 🌱 
+
+### Front-end developer 
+
 
 <img
 	src="https://github-readme-stats.vercel.app/api?username=Ephrem-Girmay&theme=dracula&show_icons=true&count_private=true"
