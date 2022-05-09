@@ -1,4 +1,4 @@
-<p align="center" height= "160"><a href="https://anuraghazra.github.io"><img width="80%" src="https://i.ibb.co/51HMD5Y/Ephrem-Girmay-8.png" /></a></p>
+<p  width= "100%" ><a href="https://anuraghazra.github.io"><img width="100%" src="https://i.ibb.co/51HMD5Y/Ephrem-Girmay-8.png" /></a></p>
 
 
                             
@@ -7,8 +7,8 @@
 
 
 <p align= "center">
-  <img height= "135" src="https://github-readme-stats.vercel.app/api?username=Ephrem-Girmay&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephrem-Girmay&theme=react&layout=compact" />
+  <img  width= "49%" src="https://github-readme-stats.vercel.app/api?username=Ephrem-Girmay&theme=react&show_icons=true&include_all_commits=true" />
+  <img height="50%" width= "48.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephrem-Girmay&theme=react&layout=compact" />
 </p>
 
 
