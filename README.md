@@ -1,4 +1,4 @@
-<p align="center" height= "160"><a href="https://anuraghazra.github.io"><img width="80%" src="https://i.ibb.co/xG3pgDQ/Ephrem-Girmay-5.png" /></a></p>
+<p align="center" height= "160"><a href="https://anuraghazra.github.io"><img width="80%" src="https://i.ibb.co/6RmTHb3/Ephrem-Girmay-7.png" /></a></p>
 
 
                             
