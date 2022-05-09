@@ -1,9 +1,12 @@
-## 👋 Hi, I’m Ephrem - 🌱 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="https://i.ibb.co/xG3pgDQ/Ephrem-Girmay-5.png" /></a></p>
+
+
+##  🌱 
 
 ### Studying Front-End Development at Hyper Island
 
 
-<p align= "left">
+<p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Ephrem-Girmay&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephrem-Girmay&theme=react&layout=compact" />
 </p>
