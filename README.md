@@ -13,8 +13,9 @@
 
 
 
-                                                                  🌱 
-                                     Currently Studying Front-End Development at Hyper Island
+                                                                  
+                                    
+                                     
 
 
  #### 👨🏻‍💻 TECHNOLOGIES:
